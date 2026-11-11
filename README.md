@@ -1,0 +1,2 @@
+# rust-notes
+Side project
